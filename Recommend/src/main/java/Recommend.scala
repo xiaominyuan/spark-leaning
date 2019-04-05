@@ -53,7 +53,7 @@ object Recommend {
       if (args(0) == 1){
         recommendMovies(model,movieTitle)
       }
-      if (args(1) ==2){
+      if (args(0) ==2){
         recommendUsers(model,movieTitle)
       }
 
