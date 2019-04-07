@@ -6,18 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Al" />
-        <module name="Als" />
-        <module name="Alsd" />
-        <module name="AlsEvaluation" />
-        <module name="Recommend" />
+        <module name="Classification" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Al" target="1.7" />
-      <module name="Als" target="1.7" />
-      <module name="Alsd" target="1.7" />
-      <module name="Recommend" target="1.7" />
-    </bytecodeTargetLevel>
   </component>
 </project>
