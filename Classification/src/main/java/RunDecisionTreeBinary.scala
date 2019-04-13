@@ -92,6 +92,9 @@ object RunDecisionTreeBinary {
   def main(args: Array[String]): Unit = {
     val sc = initSpark()
     val (trainData, validData, testData, categoryMap) = pepareData(sc)
+    trainData.persist()
+    validData.persist()
+    testData.persist()
     val impurityArr = Array("gini","entropy")
     val maxdepthArr = Array(3,5,10,15,20)
     val maxBinArr = Array(3,5,10,50,100)
