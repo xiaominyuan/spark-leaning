@@ -17,7 +17,6 @@
       <module name="Al" target="1.7" />
       <module name="Als" target="1.7" />
       <module name="Alsd" target="1.7" />
-      <module name="Recommend" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
