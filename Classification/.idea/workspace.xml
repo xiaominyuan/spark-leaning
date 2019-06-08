@@ -15,8 +15,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="45" column="29" lean-forward="true" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+            <state relative-caret-position="1215">
+              <caret line="45" column="29" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -25,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/RunDecisionTreeBinary.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="567">
-              <caret line="75" column="60" lean-forward="true" selection-start-line="75" selection-start-column="51" selection-end-line="75" selection-end-column="60" />
+              <caret line="75" column="60" selection-start-line="75" selection-start-column="51" selection-end-line="75" selection-end-column="60" />
               <folding>
                 <element signature="e#0#68#0" expanded="true" />
               </folding>
@@ -59,7 +59,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="724" />
     <option name="y" value="39" />
     <option name="width" value="1363" />
@@ -71,6 +71,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -101,7 +102,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -136,17 +136,18 @@
       <updated>1554617107248</updated>
       <workItem from="1554617111858" duration="5364000" />
       <workItem from="1555132509661" duration="10263000" />
+      <workItem from="1557557812231" duration="599000" />
+      <workItem from="1558786537623" duration="694000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15627000" />
+    <option name="totallyTimeSpent" value="16920000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="724" y="39" width="1363" height="1019" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.48656946" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4864865" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -184,15 +185,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="45" column="29" lean-forward="true" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+        <state relative-caret-position="1215">
+          <caret line="45" column="29" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/RunDecisionTreeBinary.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
-          <caret line="75" column="60" lean-forward="true" selection-start-line="75" selection-start-column="51" selection-end-line="75" selection-end-column="60" />
+          <caret line="75" column="60" selection-start-line="75" selection-start-column="51" selection-end-line="75" selection-end-column="60" />
           <folding>
             <element signature="e#0#68#0" expanded="true" />
           </folding>
